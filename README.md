@@ -18,5 +18,4 @@ This is a preview of the HTML file.
 ## Contributors
 
   * Esther Hernandez [https://github.com/Esther-Hernandez]
-  * 
 
