@@ -15,7 +15,7 @@ A simple page which contains the company's logo and title. It includes a login f
 
 The main HTML file is viewable in your default browser.
 
-![alt text](https://github.com/Esther-Hernandez/Movie-Website-Project/blob/master/movie_site.png "Movie Site Preview")
+![alt text](https://github.com/Esther-Hernandez/login-form/blob/master/login-form.png "Login Form Preview")
 
 ## Contributors
 
