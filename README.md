@@ -9,7 +9,7 @@ A simple page which contains the company's logo and title. It includes a login f
 - main.html : Contains the main HTML content.
 - styles.css : Contains the HTML style content.
   
- ## Conclusion
+## Conclusion
 
 The main HTML file is viewable in your default browser.
 
