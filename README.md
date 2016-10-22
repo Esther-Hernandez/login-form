@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A simple page which contains the company's logo and title. It includes a login form with username and password fields.
+A simple page which contains the company's logo and title. It includes a login form with username and password fields. Built with Bootstrap.
 
 ## What's Included
 
@@ -11,11 +11,12 @@ A simple page which contains the company's logo and title. It includes a login f
   
 ## Conclusion
 
-The main HTML file is viewable in your default browser.
+This is a preview of the HTML file.
 
 ![alt text](https://github.com/Esther-Hernandez/login-form/blob/master/login-form.png "Login Form Preview")
 
 ## Contributors
 
   * Esther Hernandez [https://github.com/Esther-Hernandez]
+  * 
 
