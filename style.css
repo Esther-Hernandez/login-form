@@ -55,18 +55,7 @@ html, body {
     text-align: center;
 }
 
-.username {
-    margin-top: 30px;
-    font-size: 20px;
-    text-align: center;
-    width: 80%;
-    padding: 10px 15px;
-    outline: none;
-    border: none;
-    border-radius: 5px;
-}
-
-.password {
+.username, .password {
     margin-top: 30px;
     font-size: 20px;
     text-align: center;
