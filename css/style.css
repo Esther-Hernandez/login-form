@@ -1,0 +1,91 @@
+html, body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #015794;
+    font-size: 15px;
+    height: 100%;
+    background: #015794;
+    background: -webkit-linear-gradient(#015794, #fff);
+    background: -o-linear-gradient(#015794, #fff);
+    background: -moz-linear-gradient(#015794, #fff);
+    background: linear-gradient(#015794, #fff);
+}
+
+.container {
+    background: #fff;
+    height: 100%;
+}
+
+.text-muted {
+    color: #fff;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.text-thin {
+    font-weight: 300;
+}
+
+.text-bold {
+    font-weight: 400;
+}
+
+.title-super {
+    font-size: 45px;
+}
+
+.title-min {
+    font-size: 20px;
+}
+
+.title-logo {
+    margin-top: 20px;
+    max-width: 150px;
+}
+
+.header-division {
+    border-top: 3px solid #015794;
+}
+
+.form-container {
+    margin: 50px auto;
+    max-width: 100%;
+    background: rgba(25, 151, 208, 0.70);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.username {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    width: 80%;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.password {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    width: 80%;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.login-btn {
+    margin: 40px 10px;
+    font-size: 20px;
+    color: white;
+    padding: 10px 10px;
+    width: 45%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background: #015794;
+    cursor: pointer;
+}
